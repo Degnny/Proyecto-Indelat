@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308282256113",
+    "project_id": "indelatv3",
+    "storage_bucket": "indelatv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308282256113:android:6d2372f29da3b32cfa5750",
+        "android_client_info": {
+          "package_name": "com.example.flutter_indelatv11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308282256113-hidpo3avbe9vp3g2b2g7h3v3r1t0j7i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWO-6hsHlVwYJyNZLanpPWZYbz630bjFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308282256113-hidpo3avbe9vp3g2b2g7h3v3r1t0j7i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
